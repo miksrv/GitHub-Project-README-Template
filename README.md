@@ -10,12 +10,12 @@ Welcome to the **Project Name** repository! This project is designed to [brief d
 <p align="center">
   <strong>A brief description or catchy tagline for the project.</strong>
   <br />
-  <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/miksrv/GitHub-Project-README-Template"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
+  <a href="https://github.com/miksrv/GitHub-Project-README-Template/issues">Report Bug</a>
   ·
-  <a href="https://github.com/your_username/repo_name/issues">Request Feature</a>
+  <a href="https://github.com/miksrv/GitHub-Project-README-Template/issues">Request Feature</a>
   ·
   <a href="#contact">Contact</a>
 </p>
@@ -53,7 +53,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your_username/repo_name.git
+   git clone https://github.com/miksrv/GitHub-Project-README-Template.git
    ```
 2. **Install dependencies:**
    ```sh
