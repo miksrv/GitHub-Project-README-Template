@@ -1,6 +1,6 @@
-<!-- PROJECT TITLE -->
-# Project Name
+<a id="readme-top"></a>
 
+<!-- PROJECT TITLE -->
 Welcome to the **Project Name** repository! This project is designed to [brief description of what the project does]. If you're interested in contributing, improving, or simply learning from this project, you're in the right place.
 
 <p align="center">
@@ -13,9 +13,9 @@ Welcome to the **Project Name** repository! This project is designed to [brief d
   <a href="https://github.com/miksrv/GitHub-Project-README-Template"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/miksrv/GitHub-Project-README-Template/issues">Report Bug</a>
+  <a href="https://github.com/miksrv/GitHub-Project-README-Template/issues/new?assignees=miksrv&labels=bug&projects=&template=1-bug.yml&title=%5BBug%5D%3A+">Report Bug</a>
   ·
-  <a href="https://github.com/miksrv/GitHub-Project-README-Template/issues">Request Feature</a>
+  <a href="https://github.com/miksrv/GitHub-Project-README-Template/issues/new?assignees=miksrv&labels=enhancement&template=2-feature-request.yml&title=%5BFeature%5D%3A+">Request Feature</a>
   ·
   <a href="#contact">Contact</a>
 </p>

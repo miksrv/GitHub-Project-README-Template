@@ -13,24 +13,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Configure Git
+      - name: Generate Changelog using git log
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-
-      - name: Install standard-version
-        run: npm install -g standard-version
-
-      - name: Generate Changelog
-        run: standard-version --release-as patch --skip.tag
+          git log --pretty=format:"%d%n%n%h - %an, %ad : %s" --date=iso --decorate
 
       - name: Commit and push changelog
         run: |
-          git add CHANGELOG.md package.json
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add CHANGELOG.md
           git commit -m "chore(release): update CHANGELOG.md"
           git push origin main
