@@ -23,6 +23,8 @@ Welcome to the **Project Name** repository! This project is designed to [brief d
   <a href="#contact">Contact</a>
 </div>
 
+<br />
+
 <!-- PROJECT BADGES -->
 <!-- 
 Here is an example icon for the project, for convenience, 
@@ -42,7 +44,7 @@ There is also documentation there, with which you can add your own icons or chan
 ---
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+### Table of Contents
 
 - [About of Project](#about-of-project)
   - [Built With](#built-with)
@@ -55,8 +57,6 @@ There is also documentation there, with which you can add your own icons or chan
   - [Top Contributors](#top-contributors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-
----
 
 <!-- ABOUT OF PROJECT -->
 ## About of Project
@@ -92,8 +92,6 @@ This README template doesn't actually use any of the technologies listed below, 
 [![NextJS][nextjs-badge]][nextjs-url]
 [![ReactJS][reactjs-badge]][reactjs-url]
 
----
-
 <!-- INSTALLATION -->
 ## Installation
 
@@ -115,8 +113,6 @@ In fact, to install this repository you don't need to install any dependencies o
 <p align="right">
   (<a href="#top">Back to top</a>)
 </p>
-
----
 
 <!-- USAGE -->
 ## Usage
@@ -160,8 +156,6 @@ To provide a clearer picture of the project in action, here’s a screenshot of 
   (<a href="#top">Back to top</a>)
 </p>
 
----
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -187,8 +181,6 @@ For more detailed contributing guidelines, visit our [CONTRIBUTING.md](CONTRIBUT
   (<a href="#top">Back to top</a>)
 </p>
 
----
-
 ## License
 
 <!-- LICENSE -->
@@ -197,8 +189,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <p align="right">
   (<a href="#top">Back to top</a>)
 </p>
-
----
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgments
@@ -213,8 +203,6 @@ This section is dedicated to recognizing the resources and individuals that have
   (<a href="#top">Back to top</a>)
 </p>
 
----
-
 ## Contact
 
 Misha - [miksoft.pro](https://miksoft.pro)
@@ -226,15 +214,15 @@ Misha - [miksoft.pro](https://miksoft.pro)
 <!-- MARKDOWN VARIABLES (LINKS, IMAGES) -->
 <!-- Documentation: https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- Badges documentation: https://shields.io/badges -->
-[contributors-badge]: https://img.shields.io/github/contributors/miksrv/GitHub-Project-README-Template.svg?style=flat-square
+[contributors-badge]: https://img.shields.io/github/contributors/miksrv/GitHub-Project-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/miksrv/GitHub-Project-README-Template/graphs/contributors
-[forks-badge]: https://img.shields.io/github/forks/miksrv/GitHub-Project-README-Template.svg?style=flat-square
+[forks-badge]: https://img.shields.io/github/forks/miksrv/GitHub-Project-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/miksrv/GitHub-Project-README-Template/network/members
-[stars-badge]: https://img.shields.io/github/stars/miksrv/GitHub-Project-README-Template.svg?style=flat-square
+[stars-badge]: https://img.shields.io/github/stars/miksrv/GitHub-Project-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/miksrv/GitHub-Project-README-Template/stargazers
-[issues-badge]: https://img.shields.io/github/issues/miksrv/GitHub-Project-README-Template.svg?style=flat-square
+[issues-badge]: https://img.shields.io/github/issues/miksrv/GitHub-Project-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/miksrv/GitHub-Project-README-Template/issues
-[license-badge]: https://img.shields.io/github/license/miksrv/GitHub-Project-README-Template.svg?style=flat-square
+[license-badge]: https://img.shields.io/github/license/miksrv/GitHub-Project-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/miksrv/GitHub-Project-README-Template/blob/master/LICENSE.txt
 
 <!-- Other ready-made icons can be seen for example here: https://github.com/inttter/md-badges -->
