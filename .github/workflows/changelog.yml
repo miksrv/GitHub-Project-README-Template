@@ -18,6 +18,11 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
       - name: Install standard-version
         run: npm install -g standard-version
 
@@ -26,8 +31,6 @@ jobs:
 
       - name: Commit and push changelog
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
           git add CHANGELOG.md package.json
           git commit -m "chore(release): update CHANGELOG.md"
           git push origin main

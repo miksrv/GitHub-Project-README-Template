@@ -29,38 +29,38 @@ body:
     validations:
       required: true
 
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you using?
-      options:
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-      default: 1.0.0
-    validations:
-      required: true
+#  - type: dropdown
+#    id: version
+#    attributes:
+#      label: Version
+#      description: What version of our software are you using?
+#      options:
+#        - 1.0.0
+#        - 1.0.1
+#        - 1.0.2
+#      default: 1.0.0
+#    validations:
+#      required: true
 
-  - type: checkboxes
-    id: browsers
-    attributes:
-      label: Which browsers are you experiencing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-      validations:
-        required: true
+#  - type: checkboxes
+#    id: browsers
+#    attributes:
+#      label: Which browsers are you experiencing the problem on?
+#      multiple: true
+#      options:
+#        - Firefox
+#        - Chrome
+#        - Safari
+#        - Microsoft Edge
+#      validations:
+#        required: true
 
   - type: textarea
     id: logs
     attributes:
       label: Relevant Log Output
       description: Please paste any relevant log output here. It will be automatically formatted as code.
-      render: shell
+#      render: shell
       placeholder: Paste logs here
     validations:
       required: false
