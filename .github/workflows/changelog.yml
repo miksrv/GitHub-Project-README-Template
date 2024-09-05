@@ -15,7 +15,7 @@ jobs:
 
       - name: Generate Changelog using git log
         run: |
-          git log --pretty=format:"%d%n%n%h - %an, %ad : %s" --date=iso --decorate
+          git log --pretty=format:"%d%n%n%h - %an, %ad : %s" --date=iso --decorate > CHANGELOG.md
 
       - name: Commit and push changelog
         run: |
