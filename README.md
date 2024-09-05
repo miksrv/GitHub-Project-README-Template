@@ -10,11 +10,9 @@ Please give the project a star :)
 <!-- PROJECT TITLE -->
 Welcome to the **Project Name** repository! This project is designed to [brief description of what the project does]. If you're interested in contributing, improving, or simply learning from this project, you're in the right place.
 
-<p style="text-align: center">
+<div align="center">
   <img src="https://via.placeholder.com/150" alt="Project Logo" width="150" height="150">
-</p>
 
-<div style="text-align: center">
   <h3>The best README template for your project!</h3>
   <a href="https://github.com/miksrv/GitHub-Project-README-Template"><strong>Explore the docs »</strong></a>
   <br /><br />
@@ -31,7 +29,7 @@ Here is an example icon for the project, for convenience,
 I have taken all the URLs into separate variables, which can be found at the bottom of this document.
 There is also documentation there, with which you can add your own icons or change the styles of existing ones.
 -->
-<div style="text-align: center">
+<div align="center">
 
   [![Contributors][contributors-badge]][contributors-url]
   [![Forks][forks-badge]][forks-url]
@@ -77,7 +75,7 @@ Why choose this template?
 
 If you need a quick and effective solution for starting a new project, this template is exactly what you need. Start with the BLANK_README.md file and feel the difference.
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 
@@ -114,7 +112,7 @@ In fact, to install this repository you don't need to install any dependencies o
    npm start
    ```
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 
@@ -158,7 +156,7 @@ console.log(result);
 
 To provide a clearer picture of the project in action, here’s a screenshot of the main feature.
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 
@@ -185,7 +183,7 @@ For more detailed contributing guidelines, visit our [CONTRIBUTING.md](CONTRIBUT
   <img src="https://contrib.rocks/image?repo=miksrv/GitHub-Project-README-Template" alt="contrib.rocks image" />
 </a>
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 
@@ -196,7 +194,7 @@ For more detailed contributing guidelines, visit our [CONTRIBUTING.md](CONTRIBUT
 <!-- LICENSE -->
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 
@@ -211,7 +209,7 @@ This section is dedicated to recognizing the resources and individuals that have
 2. [Markdown Guide](https://www.markdownguide.org)
 3. [GitHub Pages](https://pages.github.com)
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 
@@ -221,7 +219,7 @@ This section is dedicated to recognizing the resources and individuals that have
 
 Misha - [miksoft.pro](https://miksoft.pro)
 
-<p style="text-align: right">
+<p align="right">
   (<a href="#top">Back to top</a>)
 </p>
 

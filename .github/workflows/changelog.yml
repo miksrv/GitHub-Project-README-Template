@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Changelog using git log
         run: |
@@ -24,3 +26,5 @@ jobs:
           git add CHANGELOG.md
           git commit -m "chore(release): update CHANGELOG.md"
           git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
